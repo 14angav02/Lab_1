@@ -6,7 +6,7 @@ module ALU
     input  [31:0] srcB,
     input  [ 3:0] oper,
     output        zero,
-	 output        less_then_zero
+    output        less_then_zero,
     output reg [31:0] result
 );
 
