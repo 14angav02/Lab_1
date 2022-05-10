@@ -1,0 +1,264 @@
+Start loading registers of register file
+
+Register           0: 00000000
+
+Register           1: 00000002
+
+Register           2: 00000004
+
+Register           3: 0000000a
+
+Register           4: 00000014
+
+Register           5: 0000002a
+
+Register           6: 00000054
+
+Register           7: 000000aa
+
+Register           8: 00000154
+
+Register           9: 000002aa
+
+Register          10: 00000554
+
+Register          11: 00000aaa
+
+Register          12: 00001554
+
+Register          13: 00002aaa
+
+Register          14: 00005554
+
+Register          15: 0000aaaa
+
+Register          16: 00015554
+
+Register          17: 0002aaaa
+
+Register          18: 00055554
+
+Register          19: 000aaaaa
+
+Register          20: 00155554
+
+Register          21: 002aaaaa
+
+Register          22: 00555554
+
+Register          23: 00aaaaaa
+
+Register          24: 01555554
+
+Register          25: 02aaaaaa
+
+Register          26: 05555554
+
+Register          27: 0aaaaaaa
+
+Register          28: 15555554
+
+Register          29: 2aaaaaaa
+
+Register          30: 55555554
+
+Register          31: aaaaaaaa
+
+Reading with rd0
+
+Register           0 SUCCESS
+
+Register           1 SUCCESS
+
+Register           2 SUCCESS
+
+Register           3 SUCCESS
+
+Register           4 SUCCESS
+
+Register           5 SUCCESS
+
+Register           6 SUCCESS
+
+Register           7 SUCCESS
+
+Register           8 SUCCESS
+
+Register           9 SUCCESS
+
+Register          10 SUCCESS
+
+Register          11 SUCCESS
+
+Register          12 SUCCESS
+
+Register          13 SUCCESS
+
+Register          14 SUCCESS
+
+Register          15 SUCCESS
+
+Register          16 SUCCESS
+
+Register          17 SUCCESS
+
+Register          18 SUCCESS
+
+Register          19 SUCCESS
+
+Register          20 SUCCESS
+
+Register          21 SUCCESS
+
+Register          22 SUCCESS
+
+Register          23 SUCCESS
+
+Register          24 SUCCESS
+
+Register          25 SUCCESS
+
+Register          26 SUCCESS
+
+Register          27 SUCCESS
+
+Register          28 SUCCESS
+
+Register          29 SUCCESS
+
+Register          30 ERROR
+
+Register          31 SUCCESS
+
+Reading with rd2
+
+Register           0 SUCCESS
+
+Register           1 SUCCESS
+
+Register           2 SUCCESS
+
+Register           3 SUCCESS
+
+Register           4 SUCCESS
+
+Register           5 SUCCESS
+
+Register           6 SUCCESS
+
+Register           7 SUCCESS
+
+Register           8 SUCCESS
+
+Register           9 SUCCESS
+
+Register          10 SUCCESS
+
+Register          11 SUCCESS
+
+Register          12 SUCCESS
+
+Register          13 SUCCESS
+
+Register          14 SUCCESS
+
+Register          15 SUCCESS
+
+Register          16 SUCCESS
+
+Register          17 SUCCESS
+
+Register          18 SUCCESS
+
+Register          19 SUCCESS
+
+Register          20 SUCCESS
+
+Register          21 SUCCESS
+
+Register          22 SUCCESS
+
+Register          23 SUCCESS
+
+Register          24 SUCCESS
+
+Register          25 SUCCESS
+
+Register          26 SUCCESS
+
+Register          27 SUCCESS
+
+Register          28 SUCCESS
+
+Register          29 SUCCESS
+
+Register          30 ERROR
+
+Register          31 SUCCESS
+
+Reading with rd1
+
+Register           0 SUCCESS
+
+Register           1 SUCCESS
+
+Register           2 SUCCESS
+
+Register           3 SUCCESS
+
+Register           4 SUCCESS
+
+Register           5 SUCCESS
+
+Register           6 SUCCESS
+
+Register           7 SUCCESS
+
+Register           8 SUCCESS
+
+Register           9 SUCCESS
+
+Register          10 SUCCESS
+
+Register          11 SUCCESS
+
+Register          12 SUCCESS
+
+Register          13 SUCCESS
+
+Register          14 SUCCESS
+
+Register          15 SUCCESS
+
+Register          16 SUCCESS
+
+Register          17 SUCCESS
+
+Register          18 SUCCESS
+
+Register          19 SUCCESS
+
+Register          20 SUCCESS
+
+Register          21 SUCCESS
+
+Register          22 SUCCESS
+
+Register          23 SUCCESS
+
+Register          24 SUCCESS
+
+Register          25 SUCCESS
+
+Register          26 SUCCESS
+
+Register          27 SUCCESS
+
+Register          28 SUCCESS
+
+Register          29 SUCCESS
+
+Register          30 ERROR
+
+Register          31 SUCCESS
+

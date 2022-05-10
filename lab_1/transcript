@@ -1,0 +1,41 @@
+source play.tcl
+# couldn't read file "play.tcl": no such file or directory
+cd MyCode
+vdel -all -lib work
+source play.tcl
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:45:59 on May 07,2022
+# vlog -reportprogress 300 ./ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 21:45:59 on May 07,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:45:59 on May 07,2022
+# vlog -reportprogress 300 ./ALU_tb.sv 
+# -- Compiling module ALU_tb
+# 
+# Top level modules:
+# 	ALU_tb
+# End time: 21:45:59 on May 07,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:45:59 on May 07,2022
+# vlog -reportprogress 300 ./Commands.vh 
+# End time: 21:45:59 on May 07,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L work -lib work -t ps -voptargs=""+acc"" ALU_tb 
+# Start time: 21:45:59 on May 07,2022
+# Loading sv_std.std
+# Loading work.ALU_tb
+# Loading work.ALU
+# ** Warning: (vsim-3839) ./ALU_tb.sv(34): Variable '/ALU_tb/result', driven via a port connection, is multiply driven. See ./ALU_tb.sv(18).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_tb File: ./ALU_tb.sv
+# ** Warning: (vsim-3839) ./ALU_tb.sv(33): Variable '/ALU_tb/zero', driven via a port connection, is multiply driven. See ./ALU_tb.sv(18).
+#    Time: 0 ps  Iteration: 0  Instance: /ALU_tb File: ./ALU_tb.sv
+# WARNING: No extended dataflow license exists
+mem compare -file C:/Users/Alex/Downloads/lab1/lab_1/lab_1/MyCode/top_testvectors.tv /ALU_tb/testvectors
+# End time: 21:47:10 on May 07,2022, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 3

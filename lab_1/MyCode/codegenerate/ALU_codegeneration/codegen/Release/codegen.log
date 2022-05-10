@@ -1,0 +1,22 @@
+﻿Построение начато 07.05.2022 19:37:16.
+     1>Проект "C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\codegen\codegen.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\codegen.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 111.cpp
+         111.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\Release\codegen.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\codegen.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\Release\codegen.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\Release\codegen.lib" /MACHINE:X86 Release\111.obj
+         Создание кода
+         Создание кода завершено
+         codegen.vcxproj -> C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\Release\codegen.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\Release\codegen.exe;#1" /manifest Release\codegen.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\codegen.unsuccessfulbuild" удаляется.
+         Обращение к "Release\codegen.lastbuildstate".
+     1>Построение проекта "C:\Users\Alex\Downloads\lab1 (1)\lab_1\lab_1\MyCode\codegenerate\codegen\codegen\codegen.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.85
